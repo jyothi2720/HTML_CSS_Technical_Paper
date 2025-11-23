@@ -9,7 +9,7 @@
 7. CSS Responsive Queries
 8. Flexbox/Grid
 9. Common header meta tags
-10. Any other topic you think is important.
+10. Additional Important CSS Topics
 
 ## Introduction
 
